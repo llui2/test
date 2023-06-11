@@ -1,0 +1,8 @@
+cmd.txt
+results
+classic/*.mod
+.DS_Store
+*.mod
+*.out
+*.o
+README.md
